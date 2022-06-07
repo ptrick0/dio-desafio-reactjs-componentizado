@@ -1,6 +1,6 @@
 # Desafio DIO - Front-end totalmente componentizado com ReactJS
 
-Projeto desenvolvido seguindo o curso da DIO "Criando um front-end totalmente componentizado na prática com ReactJS"
+Projeto desenvolvido seguindo o curso da DIO "Criando um front-end totalmente componentizado na prática com ReactJS".\
 A aplicação tem por objetivo consultar a API do github e apresentar os dados do usuário e seus repositórios públicos
 
 ## Getting Started with Create React App
